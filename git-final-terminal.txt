@@ -1,4 +1,4 @@
-This is a sample added line....................................
+
 JhansiViswanath@DESKTOP-HMUPB84 MINGW64 ~/Desktop/DEV-OPS
 $ git init
 Initialized empty Git repository in C:/Users/JhansiViswanath/Desktop/DEV-OPS/.git/
